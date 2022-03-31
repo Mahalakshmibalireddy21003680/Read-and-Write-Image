@@ -40,7 +40,7 @@ cv2.waitKey(0)
 
 ```
 iii) #Find the shape of the Image
-``python3
+```python3
 import cv2
 colorImage = cv2.imread('/Users/eswar1607/Desktop/flower.png',1)
 print(colorImage.shape)
