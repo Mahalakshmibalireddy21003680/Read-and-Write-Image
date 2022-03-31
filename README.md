@@ -85,7 +85,7 @@ cv2.waitKey(0)
 ### iii)Shape of the Image
 
 <br>
-!<img width="835" alt="Screenshot 2022-03-31 at 10 38 05 PM" src="https://user-images.githubusercontent.com/93427286/161115493-d29545e4-557d-4782-8a65-7a4ca477fa97.png">
+<img width="835" alt="Screenshot 2022-03-31 at 10 38 05 PM" src="https://user-images.githubusercontent.com/93427286/161115493-d29545e4-557d-4782-8a65-7a4ca477fa97.png">
 <br>
 
 ### iv)Access rows and columns
