@@ -80,19 +80,17 @@ cv2.waitKey(0)
 ### ii)Write the image
 
 <br>
-![Screenshot 2022-03-31 at 10 37 28 PM](https://user-images.githubusercontent.com/93427286/161114946-781b2fb7-b8bb-4bda-89ef-99cdb96f91b2.png)
-<br>
+<img width="535" alt="Screenshot 2022-03-31 at 10 37 28 PM" src="https://user-images.githubusercontent.com/93427286/161115459-28af641f-fb41-4b8d-a098-2bb1651d366d.png">
 
 ### iii)Shape of the Image
 
 <br>
-![Screenshot 2022-03-31 at 10 38 05 PM](https://user-images.githubusercontent.com/93427286/161114967-456126b7-b4ea-41b8-a039-9e40c831cbfb.png)
-
+!<img width="835" alt="Screenshot 2022-03-31 at 10 38 05 PM" src="https://user-images.githubusercontent.com/93427286/161115493-d29545e4-557d-4782-8a65-7a4ca477fa97.png">
 <br>
 
 ### iv)Access rows and columns
 <br>
-![Screenshot 2022-03-31 at 10 38 53 PM](https://user-images.githubusercontent.com/93427286/161115101-90249955-d5fe-4b68-a4d9-8a18fd975742.png)
+<img width="535" alt="Screenshot 2022-03-31 at 10 38 53 PM" src="https://user-images.githubusercontent.com/93427286/161115568-c92f0f6e-cc25-4588-8ddc-4eb195b4c16d.png">
 <br>
 
 ### v)Cut and paste portion of image
